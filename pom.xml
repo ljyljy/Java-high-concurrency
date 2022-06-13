@@ -12,6 +12,7 @@
         <module>lock-demos</module>
         <module>thread-demos</module>
         <module>chatcommon</module>
+        <module>concurrent-demos</module>
     </modules>
 
     <!-- 依赖版本集中管理 -->
