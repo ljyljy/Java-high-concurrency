@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chatcommon" />
+        <module name="thread-demos" />
         <module name="lock-demos" />
       </profile>
     </annotationProcessing>
